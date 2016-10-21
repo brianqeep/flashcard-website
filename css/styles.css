@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  height: 50px;
+}
+h1{
+  text-align: center;
+  letter-spacing: 1.3px;
+  font-family: 'lobster', cursive;
+  color: #000;
+}
+.table{
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-right: 1%;
+  width: 90%;
+  height: 450px;
+}
+td{
+  border: 1px solid #fff;
+  width: 20%;
+  height: 20%;
+  text-align: center;
+  background: url(../images/flashbg.jpg) no-repeat;
+  background-size: cover;
+  border-radius: 7px;
+}
+tr{
+
+}
+.terms{
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+  margin-top: 20%;
+  color: maroon;
+}
+.subheader{
+  margin-top: 8%;
+  height: 125px;
+  background-color: maroon;
+
+}
+#header-details{
+  font-family: 'lobster', cursive;
+  font-size: 23px;
+  padding-left: 5%;
+  color: #fff;
+  padding-top: 1%;
+}
+#d1,#d2,#d3,#d4,#d5,#d6,#d7,#d8,#d9,#d10,#d11,#d12,#d13,#d14,#d15,#d16,#d17,#d18,#d19,#d20{
+  opacity: 0.8;
+  cursor: pointer;
+}
+#d1:hover,#d2:hover,#d3:hover,#d4:hover,#d5:hover,#d6:hover,#d7:hover,#d8:hover,#d9:hover,#d10:hover,#d11:hover,#d12:hover,#d13:hover,#d14:hover,#d15:hover,#d16:hover,#d17:hover,#d18:hover,#d19:hover,#d20:hover{
+  opacity: 1;
+}
+#question{
+  color: #eee;
+  font-style: italic;
+  font-size: 16px;
+  font-family: 'lobster', cursive;
+  padding-left: 5%;
+}
