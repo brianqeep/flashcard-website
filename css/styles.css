@@ -34,6 +34,7 @@ tr{
   font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   margin-top: 20%;
   color: maroon;
+  display: block;
 }
 .subheader{
   margin-top: 8%;
@@ -61,4 +62,17 @@ tr{
   font-size: 16px;
   font-family: 'lobster', cursive;
   padding-left: 5%;
+}
+#terms1, #terms2, #terms3, #terms4, #terms5{
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+  margin-top: 20%;
+  color: maroon;
+  display: block;
+}
+#show1, #show2, #show3, #show4, #show5{
+  display: none;
+  margin: 5%;
+}
+#show1:hover, #show2:hover, #show3:hover, #show4:hover, #show5:hover{
+  color: teal;
 }
