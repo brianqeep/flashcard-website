@@ -68,6 +68,7 @@ tr{
   margin-top: 20%;
   color: maroon;
   display: block;
+  font-size: 20px;
 }
 #show1, #show2, #show3, #show4, #show5{
   display: none;

@@ -16,7 +16,7 @@ $(document).ready(function() {
       $("#terms2").click(function(){
         $("#terms2").hide();
       });
-      $("#terms2").click(function(){
+      $("#terms2" ).click(function(){
         $("#show2").show();
       });
       $("#show2").click(function(){
